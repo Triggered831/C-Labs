@@ -1,0 +1,15 @@
+C:\Users\Triggered\source\repos\mass3\mass3\bin\Debug\net6.0\mass3.exe
+C:\Users\Triggered\source\repos\mass3\mass3\bin\Debug\net6.0\mass3.deps.json
+C:\Users\Triggered\source\repos\mass3\mass3\bin\Debug\net6.0\mass3.runtimeconfig.json
+C:\Users\Triggered\source\repos\mass3\mass3\bin\Debug\net6.0\mass3.dll
+C:\Users\Triggered\source\repos\mass3\mass3\bin\Debug\net6.0\mass3.pdb
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.csproj.AssemblyReference.cache
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.AssemblyInfoInputs.cache
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.AssemblyInfo.cs
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.csproj.CoreCompileInputs.cache
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.dll
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\refint\mass3.dll
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.pdb
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\mass3.genruntimeconfig.cache
+C:\Users\Triggered\source\repos\mass3\mass3\obj\Debug\net6.0\ref\mass3.dll
